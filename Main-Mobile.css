@@ -1,0 +1,43 @@
+header.Activity {    
+    color: #262E57;
+    background-color:#A5E9E8;
+    font-weight: bold;
+    font-family:arial;
+    font-size: 80px;
+    padding-left: 40px;
+}
+header.Points {    
+    color: #262E57;
+    background-color:#A5E9E8;
+    font-weight: bold;
+    font-family:arial;
+    font-size: 80px;
+    padding-left: 40px;
+    font-size: 34px;
+    padding-left: 430px;
+    margin-bottom: 0;
+    word-spacing: 1.2cm;
+}
+img.Account-Icon{
+    color:#00000000;
+    height: 163.3px;
+    width: 163.3px;
+    padding-top: 10cm;
+}
+img.Medal{
+    color:#00000000;
+    height: 163.3px;
+    width: 163.3px;
+    padding-top: 10cm;
+}
+img.Star{
+    height: 53.3px;
+    width: 53.3px;
+}
+img.Fire{
+    height: 53.3px;
+    width: 53.3px;
+}
+footer.Navigation{
+    word-spacing: 2.2cm;
+}
