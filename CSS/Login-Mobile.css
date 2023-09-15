@@ -1,0 +1,87 @@
+header.Welcome {       
+    color: #262e57;
+    background-color:#a5e9e8;
+    font-weight: bold;
+    font-family:arial;
+    font-size: 800%;
+    padding-left: 4%;
+    padding-right: 4%;
+    text-align:center;
+    margin:auto;
+}
+h1.Username{
+    text-align: center;
+    border-style:solid;
+    border-bottom-color: #262e57;
+    border-top-color:transparent;
+    border-left-color: transparent;
+    border-right-color: transparent;
+    background-color:#a5e9e8;
+    font-family:Arial;
+    width: 75.6%;
+    height:75.6%;
+    font-size: 378%;
+    margin: auto;
+    margin-top:5%;
+    border-top-right-radius: 25px;
+    border-top-left-radius: 25px;
+    color:#262e57;
+    text-decoration: none;
+}
+h1.Password{
+    text-align: center;
+    border-style:solid;
+    border-top-color:#262e57;
+    border-right-color: transparent;
+    border-left-color: transparent;
+    border-bottom-color: #262e57;
+    font-family:Arial;
+    background-color: #a5e9e8;
+    width: 75.6%;
+    height:75.6%;
+    font-size: 378%;
+    margin: auto;
+    color:#262e57;
+    text-decoration: none;
+}
+h1.Options{
+    text-align: center;
+    border-style:solid;
+    border-top-color:#262e57;
+    border-right-color: transparent;
+    border-left-color: transparent;
+    border-bottom-color:transparent;
+    font-family:Arial;
+    background-color: #a5e9e8;
+    width: 75.6%;
+    height:75.6%;
+    font-size: 378%;
+    margin: auto;
+    color:#262e57;
+    text-decoration: none;
+    border-bottom-right-radius: 25px;
+    border-bottom-left-radius: 25px;
+    color:#262e57;
+    text-decoration: none;
+}
+a.Cancel{
+    color:#262e57;
+    text-decoration: none;
+    margin-right:50px;
+}
+a.Enter{
+    color:#262e57;
+    text-decoration: none;
+    margin-left:50px;
+}
+input{
+    font-size:75.6%;
+}
+img.Logo{
+    width:75.6%;
+    height:75.6%;
+    margin-top:5%;
+    display: block;
+    margin-right:auto;
+    margin-left: auto;
+}

@@ -1,0 +1,57 @@
+header.Progress {       
+    color: #262e57;
+    background-color:#a5e9e8;
+    font-family:arial;
+    font-size: 450%;
+    font-weight: bold;
+}
+h1.Controls{
+    text-align: center;
+    border-style:solid;
+    border-bottom-color: #262e57;
+    border-top-color:transparent;
+    border-left-color: transparent;
+    border-color: transparent;
+    background-color:#a5e9e8;
+    font-family:Arial;
+    width: 37.8%;
+    font-size:200%;
+    margin-left:25%;
+    position:fixed;
+    bottom:0;
+    border-radius: 25px;
+    color:#262e57;
+    text-decoration: none;
+}
+img.Exit{
+    height:6%;
+    width: 6%;    
+}
+a.Skip{
+    text-decoration: none;
+    color:#262e57;
+    border-style:solid;
+    border-right:#262e57;
+    margin-right:10%;
+    border-left:transparent;
+    border-bottom:transparent;
+    border-top:transparent;
+    font-weight:lighter;
+    }
+a.Next{
+    text-decoration: none;
+    color:#262e57;
+    border-style:solid;
+    border-left:#262e57;
+    margin-left:10%;
+    border-right:transparent;
+    border-bottom:transparent;
+    border-top:transparent;
+}
+a.Exit{
+    text-decoration: none;
+    color:#262e57;
+}
+b.Score{
+    padding-left: 36%;
+}

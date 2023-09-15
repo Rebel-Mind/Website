@@ -1,0 +1,147 @@
+header.Activity {       
+    color: #262e57;
+    background-color:#a5e9e8;
+    font-weight: bold;
+    font-family:arial;
+    font-size: 450%;
+    padding-left: 4%;
+    padding-top: 1%;
+}
+a.Activity:hover {
+    text-decoration: underline;
+}
+header.Points {    
+    color: #262E57;
+    background-color:#A5E9E8;
+    font-weight: bold;
+    font-family:arial;
+    font-size: 500%;
+    padding-left: 23%;
+}
+img.Medal{
+    height: 4.5%;
+    width: 4.5%;
+    padding-left: 50%;
+
+}
+img.Path{
+    height: 4.5%;
+    width: 4.5%;
+}
+img.Exit-Icon{
+    height:4.5%;
+    width: 4.5%;
+}
+h1.Levels{
+    font-family: arial;
+    color:#262E57;
+}
+h1.Top{
+    font-family: arial;
+    color:#262E57;
+    margin-top:10%;
+}
+a{
+    text-decoration: none;
+    color:#262e57;
+}
+a.One{
+    border-style:solid;
+    border-color: transparent;
+    border-radius: 50%;
+    font-size:200%;
+    padding-left: 1%;
+    margin-left: 30%;
+    padding-right:1%;
+    font-family:Arial;
+    background-color: orange;
+}
+a.One:hover{
+    border-style:solid;
+    border-radius: 50%;
+    font-size:200%;
+    padding-left: 1%;
+    padding-right:1%;
+    font-family:Arial;
+    background-color: orange;
+    border-color:lightgrey;
+}
+a.Two{
+    border-style:solid;
+    border-color: transparent;
+    border-radius: 50%;
+    font-size:200%;
+    padding-left: 1%;
+    padding-right:1%;
+    margin-left:38.5%;
+    margin-top:4000px;
+    font-family:Arial;
+    background-color: orange;
+}
+a.Two:hover{
+    border-style:solid;
+    border-radius: 50%;
+    font-size:200%;
+    padding-left: 1%;
+    padding-right:1%;
+    margin-left:38.5%;
+    font-family:Arial;
+    background-color: orange;
+    border-color:lightgrey;
+}
+a.Three{
+    border-style:solid;
+    border-color: transparent;
+    border-radius: 50%;
+    font-size:200%;
+    padding-left: 1%;
+    padding-right:1%;
+    margin-left:13.5%;
+    font-family:Arial;
+    background-color: orange;
+}
+a.Three:hover{
+    border-style:solid;
+    border-radius: 50%;
+    font-size:200%;
+    padding-left: 1%;
+    padding-right:1%;
+    margin-left:13.5%;
+    font-family:Arial;
+    background-color: orange;
+    border-color: lightgrey;
+}
+a.Four{
+    border-style:solid;
+    border-color: transparent;
+    border-radius: 50%;
+    font-size:200%;
+    padding-left: 1%;
+    padding-right:1%;
+    margin-left:57.5%;
+    font-family:Arial;
+    background-color: #a5e9e8
+}
+a.Four:hover{
+    border-style:solid;
+    border-radius: 50%;
+    font-size:200%;
+    padding-left: 1%;
+    padding-right:1%;
+    margin-left:57.5%;
+    font-family:Arial;
+    background-color: #a5e9e8;
+    border-color: lightgrey;
+}
+b.Five{
+    border-style:solid;
+    border-color: transparent;
+    border-radius: 50%;
+    font-size:200%;
+    padding-left: 1%;
+    padding-right:1%;
+    margin-left:14.5%;
+    font-family:Arial;
+    background-color: darkred;
+    color: lightgrey;
+}

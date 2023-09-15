@@ -1,0 +1,56 @@
+header.Welcome {       
+    color: #262e57;
+    background-color:#a5e9e8;
+    font-weight: bold;
+    font-family:arial;
+    font-size: 800%;
+    padding-left: 4%;
+    padding-right: 4%;
+    text-align:center;
+    margin:auto;
+}
+h1.Login{
+    text-align: center;
+    border-style:solid;
+    border-bottom-color: #262e57;
+    border-top-color:transparent;
+    border-left-color: transparent;
+    border-right-color: transparent;
+    background-color:#a5e9e8;
+    font-family:Arial;
+    width: 75.6%;
+    height:75.6%;
+    font-size: 378%;
+    margin: auto;
+    border-top-right-radius: 25px;
+    border-top-left-radius: 25px;
+}
+h1.SignUp{
+    text-align: center;
+    border-style:solid;
+    border-top-color:#262e57;
+    border-right-color: transparent;
+    border-left-color: transparent;
+    border-bottom-color:transparent;
+    font-family:Arial;
+    background-color: #a5e9e8;
+    width: 75.6%;
+    height:75.6%;
+    font-size: 378%;
+    margin: auto;
+    border-bottom-right-radius: 25px;
+    border-bottom-left-radius: 25px;
+}
+a{
+    color:#262e57;
+    text-decoration: none;
+}
+img.Logo{
+    margin-left:auto;
+    margin-right:auto;
+    width: 75.6%;
+    height:75.6%;
+    display: block;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}

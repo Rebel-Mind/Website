@@ -1,0 +1,94 @@
+header.Activity {       
+    color: #262e57;
+    background-color:#a5e9e8;
+    font-weight: bold;
+    font-family:arial;
+    font-size: 800%;
+    padding-left: 4%;
+    text-align: center;
+    text-decoration: none;
+    color:#262e57;
+}
+img.Medal{
+    color:#00000000;
+    height: 16.33%;
+    width: 16.33%;
+    margin:auto;
+}
+img.Exit-Icon{
+    color:#00000000;
+    height: 16.33%;
+    width: 16.33%;
+    padding-left: 10%;
+    margin:auto
+}
+img.Path{
+    width: 15.99%;
+    height:15.99%;
+    padding-left:10%;
+    margin:auto;
+}
+footer.Navigation{
+    padding-right: 15%;
+    width:100%;
+    background-color: #a5e9e8;
+    position: fixed;
+    bottom:0;
+    margin:auto;
+    text-align:center;
+    padding-top: 0.7%;
+    margin-bottom: 0.7%;
+    font-size: 159.9px;
+}
+h1.Five{
+    border-style:solid;
+    border-color: transparent;
+    font-family:Arial;
+    background-color:#a5e9e8;
+    width: 64%;
+    margin-left:17%;
+    margin-top:19%;
+    color:#262e57;
+    text-decoration: none;
+    color:#262e57;
+}
+h1.Four{
+    border-style:solid;
+    border-color: transparent;
+    font-family:Arial;
+    background-color: #a5e9e8;
+    width: 64%;
+    margin-left: 17%;
+    text-decoration: none;
+    color:#262e57;
+}
+h1.Three{
+    border-style:solid;
+    border-color: transparent;
+    font-family:Arial;
+    background-color:#a5e9e8;
+    width: 64%;
+    margin-left: 17%;
+    text-decoration: none;
+    color:#262e57;
+}
+h1.Two{
+    border-style:solid;
+    border-color: transparent;
+    font-family:Arial;
+    background-color:#a5e9e8;
+    width: 64%;
+    margin-left: 17%;
+    text-decoration: none;
+    color:#262e57;
+}
+h1.One{
+    border-style:solid;
+    border-color: transparent;
+    font-family:Arial;
+    background-color:#a5e9e8;
+    width: 64%;
+    margin-left: 17%;
+    text-decoration: none;
+    color:#262e57;
+}
